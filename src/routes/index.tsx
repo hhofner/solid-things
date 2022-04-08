@@ -1,18 +1,8 @@
-import Counter from "~/components/Counter";
-import "./index.css";
+import ListPage from "~/components/ListPage"
 
-export default function Home() {
+export default function Today() {
   return (
-    <main>
-      <h1>Hello world!</h1>
-      <Counter />
-      <p>
-        Visit
-        <a href="https://solidjs.com" target="_blank">
-          solidjs.com
-        </a>{" "}
-        to learn how to build Solid apps.
-      </p>
-    </main>
-  );
+    <ListPage title={"Today"} />
+  )
 }
+

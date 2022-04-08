@@ -20,6 +20,7 @@
     "node": ">=14"
   },
   "dependencies": {
+    "@thisbeyond/solid-dnd": "^0.4.2",
     "solid-styled-components": "^0.27.6"
   }
 }

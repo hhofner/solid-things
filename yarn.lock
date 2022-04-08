@@ -374,6 +374,11 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
+"@thisbeyond/solid-dnd@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@thisbeyond/solid-dnd/-/solid-dnd-0.4.2.tgz#0600cb4969d950dcc4ca8dc497ef3b59773eb6ba"
+  integrity sha512-d1J/jFjq1YaZsxpC0lkNuuznUeePTQycZK71+19hQqvmDNc/QYEnJ+TETefGtQiy1rc7BrvjFQAgegN/G6ueEg==
+
 "@types/estree@*":
   version "0.0.51"
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.51.tgz#cfd70924a25a3fd32b218e5e420e6897e1ac4f40"
