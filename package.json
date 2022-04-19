@@ -17,7 +17,7 @@
     "vite": "^2.8.6"
   },
   "engines": {
-    "node": "16.x"
+    "node": ">=14"
   },
   "dependencies": {
     "@thisbeyond/solid-dnd": "^0.4.2",
